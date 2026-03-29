@@ -28,6 +28,16 @@ Performed full forensic analysis on a compromised Windows 7 memory image.
 - 🌐 Flagged malicious URLs and matched them with IPs  
 - 🧾 Parsed suspicious registry hives and extracted NTLM hashes for analysis  
 
+### 🔹 Blue Team Defensive Lab  
+**[View Project →](./Blue-Team-Defensive-Lab)**  
+
+Performed vulnerability analysis using Nessus and Nmap, prioritized findings, and applied network hardening through Palo Alto firewall and IPS policies. Ingested firewall and system logs into Splunk SIEM, validated detections, and mapped alerts to MITRE ATT&CK.
+- ✅ Performed service enumeration and vulnerability analysis with Nmap and Nessus
+- ✅ Prioritized findings based on exposure and defensive relevance
+- ✅ Applied hardening through Palo Alto firewall and IPS policies
+- ✅ Ingested firewall and system logs into Splunk SIEM
+- ✅ Validated detections and mapped alerts to MITRE ATT&CK
+
 ---
 
 ## 🧰 Tools & Technologies
@@ -37,7 +47,10 @@ Performed full forensic analysis on a compromised Windows 7 memory image.
 - 🧠 **Volatility v2.6** (memory forensics)  
 - 📦 **VirusTotal, CrackStation, Regripper**  
 - 🐧 Kali Linux, bash scripting, Windows registry forensics
-
+- 🔎 **Nmap, Nessus** (vulnerability analysis and exposure validation)
+- 🧱 **Palo Alto Firewall / IPS** (network hardening and policy enforcement)
+- 📊 **Splunk SIEM** (log ingestion, search, and detection validation)
+- 🧭 **MITRE ATT&CK** (alert and activity mapping)
 ---
 
 ## 🧠 Skills Demonstrated
